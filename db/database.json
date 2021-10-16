@@ -1,0 +1,6 @@
+{
+  "books": [
+    { "id": 1, "title": "title01", "author": "typicode" },
+    { "id": 2, "title": "title01", "author": "typicode" }
+  ]
+}
