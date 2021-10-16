@@ -1,0 +1,6 @@
+{
+  "name": "json-mock-api",
+  "scripts": {
+    "json-server": "json-server -w db/database.json"
+  }
+}
