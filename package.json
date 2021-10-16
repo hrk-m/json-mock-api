@@ -2,5 +2,8 @@
   "name": "json-mock-api",
   "scripts": {
     "json-server": "json-server -w db/database.json"
+  },
+  "dependencies": {
+    "json-server": "^0.17.0"
   }
 }
